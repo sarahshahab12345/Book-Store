@@ -47,3 +47,10 @@ To run this project, clone the repository and install the required dependencies.
 7. Start the frontend server:
    ```bash
    npm run dev
+
+![Screenshot (72)](https://github.com/user-attachments/assets/de3e7869-780b-45c7-a01b-e813ad90df2b)
+
+![Screenshot (73)](https://github.com/user-attachments/assets/2c4118b1-95f2-413d-bea7-18ce3ec2b399)
+
+![Screenshot (74)](https://github.com/user-attachments/assets/abc51fd2-2635-41d6-998b-b0dc7cd6f518)
+
