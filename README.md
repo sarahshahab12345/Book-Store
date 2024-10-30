@@ -1,5 +1,3 @@
-actually i wanted this
-
 # Book Store Project
 
 ## Technologies Used
