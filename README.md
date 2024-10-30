@@ -20,8 +20,7 @@ To run this project, clone the repository and install the required dependencies.
 
 1. Clone the repository:
    ```bash
-[   git clone <repository-url>
-](https://github.com/sarahshahab12345/Book-Store.git)
+    https://github.com/sarahshahab12345/Book-Store.git
 
 2. Navigate to the backend directory and install dependencies:
     ```bash
